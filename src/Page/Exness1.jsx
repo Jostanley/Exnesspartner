@@ -5,7 +5,7 @@ function Exness1(){
       <div className = "Exness1">
         ‎<h2 className = "Exness1_h2">Welcome to the Future of Financial Freedom with Exness</h2>
         
-‎<a href = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "Exness1_Link">explore exness</a>
+‎<a href = "https://one.exnesstrack.org/a/u7w89gmxzf" className = "Exness1_Link">explore exness</a>
 <p className = "Exness1_p">‎Have you ever dreamed of gaining control over your financial future? Wished there was a way to earn from the comfort of your home—or anywhere in the world—on your own terms? You're not alone. Every day, people just like you are discovering a new path toward independence, flexibility, and prosperity—through online trading.
 ‎
 
