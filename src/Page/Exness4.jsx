@@ -5,7 +5,7 @@ function Exness4(){
       <div className = "Exness">
         ‎<h2 className = "Exness1_h2">Features & Benefits of Using Exness</h2>
 ‎<p className = "Exness1_p">
-‎When you sign up with <Link to = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "Exness_link">Exness</Link>, you're not just getting access to markets. You're stepping into a complete trading experience that’s designed to support you every step of the way. Let’s explore some of the standout features and how they benefit you directly:
+‎When you sign up with <a href = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "Exness_link">Exness</a>, you're not just getting access to markets. You're stepping into a complete trading experience that’s designed to support you every step of the way. Let’s explore some of the standout features and how they benefit you directly:
 ‎
 ‎<h4 className = "Exness_h4">1. Demo Account with Unlimited Virtual Funds</h4> 
 ‎
@@ -49,7 +49,7 @@ function Exness4(){
 ‎These features aren’t just impressive—they’re life-changing when used correctly. The tools are in your hands. What will you do with them?
 ‎
 ‎<div className = "getstarted">
-  <Link to = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "getstarted_link">visit Exness</Link>
+  <a href = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "getstarted_link">visit Exness</a>
 </div>
 ‎</p>
 
