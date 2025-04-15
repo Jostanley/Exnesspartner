@@ -24,7 +24,7 @@ function App() {
   <meta property="og:description" content="Learn how to trade forex with Exness and become a pro trader" />
   <meta property="og:url" content="https://yourdomain.com/" />
      </Helmet> 
-       <BrowserRouter basename = "/Exnesspartner">
+       <BrowserRouter basename = "/">
         <Routes>
           <Route path = "/" element = {<Home/>}/>
           <Route path = "/home" element ={<Home/>}/>
