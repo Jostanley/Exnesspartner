@@ -27,7 +27,7 @@ function Exness2(){
 ‎All of this is backed by cutting-edge technology, award-winning support, and lightning-fast execution.
 ‎
 ‎Still wondering why so many traders are choosing 
-‎<Link to = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "Exness_link">explore Exness?</Link> Keep reading—you’re about to find out.
+‎<a href = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "Exness_link">explore Exness?</a> Keep reading—you’re about to find out.
 ‎
 ‎</p>
       </div>
