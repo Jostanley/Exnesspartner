@@ -9,7 +9,7 @@ function Exness1(){
 <p className = "Exness1_p">‎Have you ever dreamed of gaining control over your financial future? Wished there was a way to earn from the comfort of your home—or anywhere in the world—on your own terms? You're not alone. Every day, people just like you are discovering a new path toward independence, flexibility, and prosperity—through online trading.
 ‎
 
-   ‎Welcome to your starting point. This isn’t just a website—it’s your personal launchpad to the global financial markets, powered by one of the most trusted names in the industry: <Link to = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "Exness_link"> Exness</Link>.
+   ‎Welcome to your starting point. This isn’t just a website—it’s your personal launchpad to the global financial markets, powered by one of the most trusted names in the industry: <a href = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "Exness_link"> Exness</a>.
 ‎
 
 
