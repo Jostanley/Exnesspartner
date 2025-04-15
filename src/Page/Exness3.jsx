@@ -29,7 +29,7 @@ function Exness3(){
 ‎
 ‎Whether you’re trading on a desktop or mobile app, Exness delivers the same reliable, fast, and smooth experience across all devices.
 ‎ <div className = "getstarted">
-‎<Link to = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "getstarted_link">get started</Link>
+‎<a href = "https://one.exnesstrack.org/boarding/sign-up/a/u7w89gmxzf" className = "getstarted_link">get started</a>
 </div>
 ‎Next, let’s dive into the platform’s features and see how it empowers traders like you to succeed.
 ‎</p>
