@@ -106,7 +106,7 @@ function Exness7(){
 ‎Mastering discipline is often what separates successful traders from the rest.
 ‎</p>
 <div className = "footer">
-<div>{new Date().getFullYear() }&Copy: of ejistan.com
+<div>{new Date().getFullYear() }&CopyRight of ejistan.com
 </div>
 <div>
  <a href = "mailto=ejikejostanley@gmail.com"> Support/contact</a>
