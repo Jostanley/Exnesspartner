@@ -13,7 +13,7 @@ function Disclaimer() {
         </div>
         </div>
         <p className = "Terms_p">
-          [Your Website Name] is an independent affiliate site and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Exness or any of its subsidiaries.
+          ejistan.com is an independent affiliate site and is not affiliated, associated, authorized, endorsed by, or in any way officially connected with Exness or any of its subsidiaries.
 
 All content is for educational and informational purposes only and should not be considered as financial advice.
 
