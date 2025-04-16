@@ -17,7 +17,7 @@ If you have questions about our Privacy Policy or Disclaimer, contact us at:
 <div>
 <Link to = "mailto =ejikejostanley@gmail.com">Email</Link>
 <p>
-Website: [YourDomain.com]
+Website: ejistan.com
 </p>
 </div>
 
